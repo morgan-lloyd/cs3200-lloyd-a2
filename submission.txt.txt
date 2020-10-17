@@ -1,0 +1,6 @@
+Heroku Database Info:
+DBUSERNAME: b688f6c28920ee
+DBPASSWORD: 89924300
+DBHOSTNAME: us-cdbr-east-02.cleardb.com
+DBSCHEMA: heroku_cf460a9e4e7a785?reconnect=true
+Port:3306
